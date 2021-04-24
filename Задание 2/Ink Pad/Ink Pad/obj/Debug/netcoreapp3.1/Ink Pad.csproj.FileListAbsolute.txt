@@ -1,0 +1,19 @@
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.exe
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.deps.json
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.json
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.runtimeconfig.dev.json
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.dll
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\bin\Debug\netcoreapp3.1\Ink Pad.pdb
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csprojAssemblyReference.cache
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.cache
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad_MarkupCompile.lref
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.g.resources
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfoInputs.cache
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.AssemblyInfo.cs
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.csproj.CoreCompileInputs.cache
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.dll
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.pdb
+C:\Users\lobch\Desktop\Systems-stable\Лабораторная 2\Ink Pad\Ink Pad\obj\Debug\netcoreapp3.1\Ink Pad.genruntimeconfig.cache
